@@ -56,7 +56,7 @@ To compare with other N:
 
  ![Alt text](./Images/600.jfif)
 
-800
+800: 
   ![Alt text](./Images/800.jfif)
 
 1000:
