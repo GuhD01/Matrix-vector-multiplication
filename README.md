@@ -57,9 +57,11 @@ To compare with other N:
  ![Alt text](./Images/600.jfif)
 
 800: 
+
   ![Alt text](./Images/800.jfif)
 
 1000:
+
   ![Alt text](./Images/1000.jfif)
 
 This shows that when the N is higher the memory used as seen on the trend above </br>When N: 200 = Memory: 0.3 MB </br>When N: 400 = Memory: 0.7 MB</br>
